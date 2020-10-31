@@ -28,4 +28,4 @@
 [linkedin]: https://www.linkedin.com/in/ganeshpathi27/
 [facebook]: https://www.facebook.com/ganeshpathi27/
 
-<!--<meta name="google-site-verification" content="uGt2p6QNrNzb7pw07EnUscgBIaf_HB6W-R8qvS6jszU" /> -->
+
