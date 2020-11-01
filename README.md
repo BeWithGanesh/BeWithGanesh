@@ -23,9 +23,9 @@
 
 
 <!-- [website]: -->
-[twitter]: https://twitter.com/
-<!-- [instagram]:  -->
+[twitter]: https://twitter.com/be_with_ganesh
+[instagram]: https://www.instagram.com/be_with_ganesh/
 [linkedin]: https://www.linkedin.com/in/
-[facebook]: https://www.facebook.com/
+[facebook]: https://www.facebook.com/bewithganesh/
 
 
