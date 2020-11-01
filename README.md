@@ -1,8 +1,6 @@
 <h1 align="center">Hallo👋, Ich Bin Ganesh Prasad</h1>
-
-<meta name="google-site-verification" content="uGt2p6QNrNzb7pw07EnUscgBIaf_HB6W-R8qvS6jszU" />
 <!--
-**GaneshPathi27/GaneshPrasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**BeWithGanesh/GaneshPrasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m a MCA student @CEG, Anna University, Chennai.
 - 🌱 I’m currently learning Data Science and Data Engineering.
@@ -21,7 +19,7 @@
 
 <br/><br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GaneshPathi27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BeWithGanesh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" /> </p>
 
 
 <!-- [website]: -->
