@@ -25,9 +25,9 @@
 
 
 <!-- [website]: -->
-[twitter]: https://twitter.com/ganeshpathi27
+[twitter]: https://twitter.com/
 <!-- [instagram]:  -->
-[linkedin]: https://www.linkedin.com/in/ganeshpathi27/
-[facebook]: https://www.facebook.com/ganeshpathi27/
+[linkedin]: https://www.linkedin.com/in/
+[facebook]: https://www.facebook.com/
 
 
