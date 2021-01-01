@@ -3,11 +3,11 @@
 **BeWithGanesh/GaneshPrasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m a MCA student @CEG, Anna University, Chennai.
-- 🌱 I’m currently learning Data Science and Data Engineering.
-- 👯 I’m looking to collaborate on ML projects.
-- 💬 Ask me about Big Data, and Data Engineering.
+- 🌱 I’m currently learning FULL STACK Development.
+- 👯 I’m looking to collaborate on FULL STACK projects.
+- 💬 Ask me about Django.
 - 😄 Pronouns: He/Him
-- ⚡ About Me: I enjoy eating sweets, dark chocolate, fast food, mangoes, and almost anything that has cheese in it.
+<!--- ⚡ About Me: I enjoy eating sweets, dark chocolate, fast food, mangoes, and almost anything that has cheese in it..-->
 
 ### Connect with me. 📫
 
