@@ -5,7 +5,7 @@
 - 🔭 I’m a MCA student @CEG, Anna University, Chennai.
 - 🌱 I’m currently learning FULL STACK Development.
 - 👯 I’m looking to collaborate on FULL STACK projects.
-- 💬 Ask me about Django.
+- 💬 Ask me about DSA.
 - 😄 Pronouns: He/Him
 <!--- ⚡ About Me: I enjoy eating sweets, dark chocolate, fast food, mangoes, and almost anything that has cheese in it..-->
 
